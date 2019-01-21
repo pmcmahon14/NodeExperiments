@@ -1,0 +1,11 @@
+{
+  "name": "flight",
+  "version": "1.0.0",
+  "description": "module to keep trck of flights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr. Magoo <magoo@example.com>",
+  "license": "ISC"
+}

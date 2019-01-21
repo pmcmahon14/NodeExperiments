@@ -7,5 +7,5 @@ var handleRequest = function (req, res) {
 
 var server = http.createServer(handleRequest);
 
-//Type 'localhost:3000' into address bar
+//Type 'localhost:3000' into address bar; starts server after node server cmd
 server.listen(3000, 'localhost');
